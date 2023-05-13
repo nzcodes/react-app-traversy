@@ -1,16 +1,16 @@
 {
   "posts": [
     {
-      "id": 2,
-      "text": "Meeting at School",
-      "day": "Feb 6th at 1:30pm",
-      "reminder": false
-    },
-    {
       "text": "shitting",
       "day": "today",
       "reminder": false,
       "id": 3
+    },
+    {
+      "text": "a",
+      "day": "a",
+      "reminder": true,
+      "id": 4
     }
   ]
 }

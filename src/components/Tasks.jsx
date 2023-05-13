@@ -16,4 +16,3 @@ export default Tasks
 
 
 // onDelete prop again passed to Task.jsx
-//sss
